@@ -1,0 +1,21 @@
+{
+  "name": "latihan-crud-lagi",
+  "description": "Projek tentang crud",
+  "main": "index.blade.php",
+  "authors": [
+    "Mochamad Iqbal <iqbalvandame2134@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/magangjavan/coba_upload",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
